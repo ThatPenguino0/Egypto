@@ -1,17 +1,17 @@
 img{border-radius: 10px;}
 html{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 div{color: green;}
-html{background-color: beige;}
+html{background-color: rgb(32, 32, 7);}
 h1{background-color: blanchedalmond;}
 .Sec{padding: 30px;
 background-color: blanchedalmond;
 border-style: dashed;
-border-color: rgb(175, 126, 63);
+border-color: rgb(0, 0, 0);
 border-radius: 10px;
 margin: 20px;
 align-items: center;}
 table{border-style: solid;
-    border-color: rgb(175, 126, 63);}
+    border-color: rgb(24, 14, 1);}
     #one{border-radius: 10px;}
     #two{border-style: dashed;}
     #num45{font-size: 65px}
